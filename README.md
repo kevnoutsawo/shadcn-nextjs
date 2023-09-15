@@ -1,4 +1,6 @@
-![Uploading screencapture-shadcn-nextjs-netlify-app-2023-09-15-12_24_12.png…]()
+## Shadcn/ui demo
+
+![Screenshot](screencapture-shadcn-nextjs-netlify-app-2023-09-15-12_24_12.png)
 
 This is a demo of the use of shadcn/ui in nextjs
 
